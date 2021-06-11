@@ -130,8 +130,8 @@ var hashMap = xObject || [{
   logo: 'G',
   url: 'https://github.com'
 }, {
-  logo: 'D',
-  url: 'https://developer.mozilla.org/zh-CN'
+  logo: 'B',
+  url: 'https://baidu.com'
 }];
 
 var simplifyUrl = function simplifyUrl(url) {

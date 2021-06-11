@@ -8,7 +8,7 @@ const x=localStorage.getItem('x')
 const xObject=JSON.parse(x)////字符串转换成对象
 const hashMap=xObject || [
     {logo:'G',url:'https://github.com'},
-    {logo:'D',url:'https://developer.mozilla.org/zh-CN'}
+    {logo:'B',url:'https://baidu.com'}
 ]
 const simplifyUrl=(url)=>{
   return url.replace('https://','')
